@@ -1,0 +1,26 @@
+{
+  "name": "gymbot",
+  "version": "0.0.1",
+  "description": "Application to book Gymbox classes programmatically",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natstar93/gymbot.git"
+  },
+  "keywords": [
+    "puppeteer"
+  ],
+  "author": "Natalie Akam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natstar93/gymbot/issues"
+  },
+  "homepage": "https://github.com/natstar93/gymbot#readme",
+  "dependencies": {
+    "puppeteer": "^1.9.0"
+  }
+}
